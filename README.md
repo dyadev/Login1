@@ -1,7 +1,5 @@
-# tailwindLabs
+# Login1
 
-
-## Login1
 Simple login view inspiring by [#design](https://www.pinterest.com/pin/581175526927760875/)
 
 ### screenshot
